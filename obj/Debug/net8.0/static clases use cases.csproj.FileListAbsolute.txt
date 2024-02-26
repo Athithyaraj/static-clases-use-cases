@@ -1,0 +1,14 @@
+C:\Users\athit\newdotnet\static clases use cases\bin\Debug\net8.0\static clases use cases.exe
+C:\Users\athit\newdotnet\static clases use cases\bin\Debug\net8.0\static clases use cases.deps.json
+C:\Users\athit\newdotnet\static clases use cases\bin\Debug\net8.0\static clases use cases.runtimeconfig.json
+C:\Users\athit\newdotnet\static clases use cases\bin\Debug\net8.0\static clases use cases.dll
+C:\Users\athit\newdotnet\static clases use cases\bin\Debug\net8.0\static clases use cases.pdb
+C:\Users\athit\newdotnet\static clases use cases\obj\Debug\net8.0\static clases use cases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athit\newdotnet\static clases use cases\obj\Debug\net8.0\static clases use cases.AssemblyInfoInputs.cache
+C:\Users\athit\newdotnet\static clases use cases\obj\Debug\net8.0\static clases use cases.AssemblyInfo.cs
+C:\Users\athit\newdotnet\static clases use cases\obj\Debug\net8.0\static clases use cases.csproj.CoreCompileInputs.cache
+C:\Users\athit\newdotnet\static clases use cases\obj\Debug\net8.0\static clases use cases.dll
+C:\Users\athit\newdotnet\static clases use cases\obj\Debug\net8.0\refint\static clases use cases.dll
+C:\Users\athit\newdotnet\static clases use cases\obj\Debug\net8.0\static clases use cases.pdb
+C:\Users\athit\newdotnet\static clases use cases\obj\Debug\net8.0\static clases use cases.genruntimeconfig.cache
+C:\Users\athit\newdotnet\static clases use cases\obj\Debug\net8.0\ref\static clases use cases.dll
